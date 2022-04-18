@@ -7,7 +7,7 @@ To play the game:
 1. Scroll down to the section titled _GitHub Pages_
 1. Select **main** from the Source drop-down.
 1. Click **Save**.
-1. Navigate to the URL provided in the same section.xax
+You can play the game at: https://vigneshreddykandi.github.io/github-games/
 
 ### Instructions for playing the game
 
